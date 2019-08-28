@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+body {
+ text-align: center;
+ font-family: 'Montserrat', sans-serif;
+ font-weight: bold;
+ color: #ffffff;
+ margin: 0;
+}
+
+
+.header {
+height: 75px;
+  padding-top: 20px;
+  padding-left: 50px;
+  background-color:  #343a40;
+}
+
+h1 {
+  display: inline-block;
+  margin-left: 100px;
+  margin-right: 500px;
+  font-size: large;
+}
+p {
+  display: inline-block;
+margin-left: 30px;
+}
+
+
+.main {
+  
+  background-color:#1abc9c;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+img {
+
+  width: 20%;
+  height: 20%;
+  
+}
+
+h2 {font-size: larger;}
+h3 {font-size: smaller;}
+
+.portfolio {
+
+background-color: white;
+color: #343a40;
+}
+.port {
+font-size: x-large;
+
+}
+hr {
+
+  height: 2px;
+  width: 10%;
+  text-align: center;
+  color: red;
+}
+
+.portfoliopic {
+
+  display: inline-block;
+  width: 25%;
+  height: 25%;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.tituloabout {
+
+  background-color:#1abc9c;
+  padding: 20px;
+}
+
+.pabout {
+text-align: center;
+font-size: x-large;
+}
+.bloqueabout1 {
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+}
+
+.bloqueabout2 {
+  
+  display: inline-block;
+
+}
+
