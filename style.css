@@ -98,5 +98,43 @@ font-size: x-large;
     text-align: left;
 }
 
+.titulocontact {
 
+background-color: white;
+color: #343a40;
+padding-top: 15px;
+padding-bottom: 20px;
+}
 
+.formulario1 {
+position: relative;
+right: 50px;
+width: 500px;
+padding-top: 15px;
+padding-bottom: 15px;
+}
+
+.formulario2 {
+  position: relative;
+  right: 40px;
+  border: none;
+  border-bottom: 1px solid lightgray;
+  }
+
+.formulario3 {
+  position: relative;
+  right: 260px;
+  background-color: #1abc9c;
+  color: white;
+  width: 80px;
+  height: 40px;
+border-radius: 5px;
+  }
+
+input {
+  border: none;
+  border-bottom: 1px solid lightgray;
+  }
+
+  input[type=submit]:hover {
+    background-color: #10725e;}
