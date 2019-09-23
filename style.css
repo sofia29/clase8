@@ -39,7 +39,15 @@ p {
   right: 20px;
 }
 
+@media (max-width: 600px) {
+.menu {
+  font-size: 12px;
+}
+.menu p {
+  display: none;
+}
 
+}
 /* =================== HEADER =================*/
 
 
